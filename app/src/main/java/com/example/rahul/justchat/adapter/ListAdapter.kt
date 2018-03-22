@@ -34,7 +34,7 @@ class ListAdapter(val message: List<Message>) : RecyclerView.Adapter<CustomViewH
     }
 
     override fun getItemCount(): Int {
-        message.size
+       return message.size
     }
 
 
