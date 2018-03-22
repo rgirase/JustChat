@@ -35,4 +35,6 @@ dependencies {
     compile 'com.google.code.gson:gson:2.8.2'
     implementation 'com.squareup.picasso:picasso:2.71828'
     compile 'de.hdodenhof:circleimageview:2.2.0'
+    compile 'com.google.firebase:firebase-core:11.8.0'
 }
+apply plugin: 'com.google.gms.google-services'

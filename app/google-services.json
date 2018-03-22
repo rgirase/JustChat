@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768115394489",
+    "firebase_url": "https://justchat-fc6a4.firebaseio.com",
+    "project_id": "justchat-fc6a4",
+    "storage_bucket": "justchat-fc6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768115394489:android:8bbf8e409fd4d919",
+        "android_client_info": {
+          "package_name": "com.example.rahul.justchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768115394489-m3nnbt1kqqmchg9nh7sf6j0v6uhoprou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahul.justchat",
+            "certificate_hash": "f1feea76b098cc807112c4a0e4837ca063bdc855"
+          }
+        },
+        {
+          "client_id": "768115394489-e3pdu66ittnctsv7fo0r3oniujsoibpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSBfDqp4JSaNuFJ60GeOM8POlhZ_t2Gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768115394489-e3pdu66ittnctsv7fo0r3oniujsoibpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
